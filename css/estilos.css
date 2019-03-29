@@ -1,0 +1,29 @@
+.navbar {
+    margin-bottom: 20px;
+    background-color: : #428BCA;
+}
+.jumbotron{
+	background: #428BCA;
+	color: #fff;
+	padding: 20px 0;
+}
+.titulo-pagina{
+	font-size: 50px;
+}
+.panel-primary {
+    border-color: #337ab7;
+
+}
+#panel-principal{
+    background: #428BCA;
+    font-size: 20px;
+    font-weight:bold;
+    color: #fff;
+    border-radius: 11px 11px 11px 11px;
+}
+#getResult4{
+	font-size: 13px;
+}
+#getResult5{
+	font-size: 13px;
+}
